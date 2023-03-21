@@ -3,3 +3,7 @@
 > status do projeto: Em desenvolvimento
 
 Aqui ficam as instruções 
+
+```
+node app.js
+´´´
